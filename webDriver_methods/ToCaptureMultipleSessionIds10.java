@@ -1,0 +1,10 @@
+package webDriver_methods;
+
+public class ToCaptureMultipleSessionIds10 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
